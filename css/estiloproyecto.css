@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+#Paginainicio
+{
+	background:#CCF
+}
+#introduccion
+{
+	text-align: center;
+	font: "Comic Sans MS", cursive;
+}
+#titulo
+{
+	background:#F00; 
+	color:#0FF;
+}
+#tema
+{
+	background:#0FF; 
+	color:#F00;
+}
+#youn
+{
+	background:#309; 
+	color:#9F9;
+}
+#densida
+{
+	background:#633; 
+	color:#F0F;
+}
+#peso
+{
+	background:#060; 
+	color:#60F;
+}
+#presion1
+{
+	background:#600; 
+	color:#0FF;
+}
+#hidro
+{
+	background:#00F; 
+	color:#FFF;
+}
+#atmos
+{
+	background:#666; 
+	color:#F0F;
+}
+#mano
+{
+	background:#0F0; 
+	color:#FFC;
+}
+#absoluta
+{
+	background:#039; 
+	color:#C30;
+}
+#pascal1
+{
+	background:#F09; 
+	color:#0FF;
+}
+#hoke
+{
+	background:#FF0; 
+	color:#0FF;
+}
